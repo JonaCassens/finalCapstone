@@ -8,15 +8,22 @@ To use this program, clone or download the repository to your local machine and 
 Run the program using *python shoe_inventory.py* in the command line. The program will prompt you with a menu of options:
 
 1.Read shoes data from file
+
 2.Capture shoes
+
 3.View all shoes
+
 4.Restock shoe with lowest quantity
+
 5.Search for shoe
+
 6.Calculate value per item
+
 7.Put highest quantity shoe on sale
+
 8.Exit
 
-Select an option by entering the corresponding number and follow the prompts.
+Select an option by entering the corresponding code given in the menu and follow the prompts.
 
 ## Class Definitions
 The *Shoe* class stores information about a shoe, including its country of origin, code, product name, cost, and quantity. It has a *get_cost* and *get_quantity* method to return the cost and quantity of the shoe, respectively, and a *___str__* method to return a string representation of the shoe's attributes.
