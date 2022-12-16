@@ -5,7 +5,7 @@ This is a Python program that allows users to manage an inventory of shoes. The 
 To use this program, clone or download the repository to your local machine and make sure you have Python installed.
 
 ## Usage
-Run the program using python *shoe_inventory.py* in the command line. The program will prompt you with a menu of options:
+Run the program using *python shoe_inventory.py* in the command line. The program will prompt you with a menu of options:
 
 1.Read shoes data from file
 2.Capture shoes
